@@ -1,0 +1,5 @@
+venv
+model_checkpoints
+data
+.idea
+*.png
